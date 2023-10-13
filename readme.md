@@ -20,7 +20,7 @@ Seu desafio é construir este formulário interativo de detalhes do cartão e fa
 
 Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
 
-Seus usuários devem ser capazes de:
+### Seus usuários devem ser capazes de:
 
 - Preencha o formulário e veja a atualização dos dados do cartão em tempo real
 - Receba mensagens de erro quando o formulário for enviado se:
